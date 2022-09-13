@@ -7,7 +7,7 @@
 <img src="img/sensor movimento - imagem.png"><br/>
 
 <h3 align="center">Imagem do bloco de código<h3/>
-<a href="Sensor de movimento.ino" title="Clique na imagem pra redirecionar ao código.">
+<a href="Sensor-de-movimento/sensor de movimento.ino" title="Clique na imagem pra redirecionar ao código.">
   <img src="img/sensor movimento - imagem do bloco.png">
 </a>
 </div>
